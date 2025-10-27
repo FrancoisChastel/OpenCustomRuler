@@ -1,0 +1,1 @@
+"""OpenCustomRuler Backend Application"""
